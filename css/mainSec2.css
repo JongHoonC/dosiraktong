@@ -2,6 +2,8 @@
   width: 1440px;
   margin: 0 auto;
   height: auto;
+  padding: 0 20px;
+  box-sizing: border-box;
 }
 
 .section2_wrap {
@@ -98,6 +100,6 @@
 @media(max-width:768px){
   .section2_right_bottom_aboutUS {
     margin: 0 auto;
-    width: 20%;
+    width: 22%;
     }
 }
